@@ -1,0 +1,12 @@
+\BOOKMARK [1][-]{section.1}{Abstract}{}% 1
+\BOOKMARK [1][-]{section.2}{Introduction}{}% 2
+\BOOKMARK [1][-]{section.3}{Elliptic Curve Cryptography}{}% 3
+\BOOKMARK [1][-]{section.4}{Elliptic Curve Discrete Logarithm Problem \(ECDLP\)}{}% 4
+\BOOKMARK [2][-]{subsection.4.1}{Applications}{section.4}% 5
+\BOOKMARK [2][-]{subsection.4.2}{Bruteforce Attack}{section.4}% 6
+\BOOKMARK [2][-]{subsection.4.3}{Pollard \040Attack}{section.4}% 7
+\BOOKMARK [1][-]{section.5}{Implementation}{}% 8
+\BOOKMARK [2][-]{subsection.5.1}{Generate ECDLP parameters}{section.5}% 9
+\BOOKMARK [2][-]{subsection.5.2}{Attacks}{section.5}% 10
+\BOOKMARK [1][-]{section.6}{Evaluation}{}% 11
+\BOOKMARK [1][-]{section.7}{Future Work}{}% 12
